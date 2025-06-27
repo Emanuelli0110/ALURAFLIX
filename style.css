@@ -1,0 +1,16 @@
+body {
+  background-color: pink;
+  color: red;
+  font-family: "Trebuchet MS", "Comic Sans MS"
+  margin: 0;
+}
+
+header {
+   font-size: 60px;
+   border-bottom: double 5px blue;
+   padding: 6px
+   text-aling: center;
+}
+
+h1 {
+   font-size: 30px; 
