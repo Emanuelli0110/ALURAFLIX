@@ -25,6 +25,6 @@ p {
 iframe, vídeo {
   display: block;
   margin: O auto;
-  width: 50%;
-  max-width: 600px;
+  width: 40%;
+  max-width: 500px;
 }
